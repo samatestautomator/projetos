@@ -9,7 +9,7 @@ class Calculadora{
 
 	soma = valor1 + valor2;
 
-    System.out.println(soma);
+    System.out.println("Resultado: "+soma);
 }
 
 }
