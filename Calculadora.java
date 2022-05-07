@@ -8,6 +8,8 @@ class Calculadora{
 	int valor2 = 2;
 
 	soma = valor1 + valor2;
+
+    System.out.println(soma);
 }
 
 }
