@@ -12,6 +12,7 @@ class Calculadora{
     // System.out.println("Resultado: "+soma);
 
     soma(3,3);
+    subtrai(10,3);
 
 }
 
@@ -20,6 +21,13 @@ public static void soma(int num1, int num2){
     int soma = num1 + num2;
 
     System.out.println(soma);
+}
+
+public static void subtrai(int num1, int num2){
+    int subtrai = num1 - num2;
+
+    System.out.println(subtrai);
+
 }
 
 }
